@@ -22,11 +22,8 @@ Upgrade version of CBF-doubleIntegeral2D [[github]]([https://ieeexplore.ieee.org
 
 ### Example Results
 ---
-#### Position vs Time & Velocity vs Time
-<img src = "https://github.com/yeongdg/CBF-collisionAvoidance/blob/main/img/time_PosVel_doubleIntegral2D.jpg">
-
-#### Phase Plot (Position vs Velocity)
-<img src = "https://github.com/yeongdg/CBF-collisionAvoidance/blob/main/img/pos_vel_doubleIntegral2D.jpg">
+#### x Position vs y Position
+<img src = "https://github.com/yeongdg/CBF-collisionAvoidance/blob/main/img/obstacleAvoidance.jpg">
 
 <br/>
 
